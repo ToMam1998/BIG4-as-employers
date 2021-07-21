@@ -1,5 +1,5 @@
 # BIG4-as-employers
-Analysis of employees' opinions for BIG4 companies in Poland
+Analysis of employees' opinions for BIG4 companies in Poland.
 
 This repository contains a report in pdf and 2 notebooks:
 - the first one for scraping opinions from website (gowork.pl),
